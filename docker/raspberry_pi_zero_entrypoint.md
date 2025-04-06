@@ -1,4 +1,4 @@
-# Setup Guide for Raspberry Pi Zero W 2 (Zwift Integration)
+# Setup Guide for Raspberry Pi Zero W 2 from Nightlies.
 
 ## 1. Get the Hardware
 - Raspberry Pi Zero W 2
