@@ -82,3 +82,4 @@ unzip raspberry-pi-binary.zip
 ```
 
 ### 10 follow other instructions to set up as a service
+ See https://github.com/cagnulein/qdomyos-zwift/blob/master/docs/10_Installation.md#automate-qdomyos-zwift-at-startup
