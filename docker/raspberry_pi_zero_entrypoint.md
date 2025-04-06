@@ -1,4 +1,6 @@
 # Setup Guide for Raspberry Pi Zero W 2 from Nightlies.
+(!) Note this does not work due to issues reported on https://github.com/cagnulein/qdomyos-zwift/issues/3361 
+
 
 ## 1. Get the Hardware
 - Raspberry Pi Zero W 2
