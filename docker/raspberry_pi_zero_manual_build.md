@@ -1,5 +1,10 @@
 # Setup Guide for Raspberry Pi Zero W 2 from Nightlies.
 (!) Note this does not work due to issues reported on https://github.com/cagnulein/qdomyos-zwift/issues/3361 
+(!!) In short, this would need a binary downloadable for libqweb, used to stream Qt apps via WebGL to a browser — which is what the libqwebgl.so plugin enables.
+
+However: 🧠 Clarification: **libqwebgl Is Not a Debian Package Name**
+That plugin is: A Qt platform plugin, not available via apt as libqwebgl
+Typically built from source or included as part of a Qt WebAssembly / WebGL-enabled build
 
 
 ## 1. Get the Hardware
